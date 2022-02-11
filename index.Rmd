@@ -1,0 +1,15 @@
+---
+title: "Woase"
+---
+
+Map of oases
+
+<img src="Map_01_02_2022.jpeg" style="width:100%">
+
+This is Pete.
+
+<img src="files/pete.jpg" style="width:50%">
+
+They are brothers!
+
+<img src="files/brother_kitties.jpg" style="width:50%">
